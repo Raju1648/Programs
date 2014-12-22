@@ -2,7 +2,7 @@
 #include<stdlib.h>
 using namespace std;
 
-
+//BST Program
 class BST
 {
 private:
@@ -608,6 +608,5 @@ ref.isBST();
 	//ref.PrintChildren(treeA[i]);
 	//refAddleaf(treeA[i]);
 //}
-
 	return 0;
 }
